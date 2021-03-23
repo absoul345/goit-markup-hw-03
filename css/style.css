@@ -181,6 +181,10 @@ img {
   text-align: center;
 }
 
+.hero-container {
+  background-image: url(../images/);
+}
+
 .hero-title {
   color: var(--white-color);
 
